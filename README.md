@@ -23,7 +23,7 @@
   Depending on your installation method, you can use either *docker* or *docker-compose*  
   `docker compose up -d` or `docker-compose up`
 
-### Install dependencies:
+### Install dependencies
 
 Recommended to use a virtual environment, but this is optional and outside the scope of this demo.  
 `cd e2e`  

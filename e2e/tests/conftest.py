@@ -2,7 +2,6 @@ import os
 import random
 import string
 from dataclasses import dataclass
-from typing import Iterator
 
 import pytest
 from playwright.sync_api import sync_playwright
